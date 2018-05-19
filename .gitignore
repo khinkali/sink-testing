@@ -1,0 +1,9 @@
+.idea/*.xml
+.idea/libraries
+.idea/.name
+.idea/artifacts
+*.iml
+target
+
+*.log
+reports
